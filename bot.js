@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer')
 
-const HOST = 'pastamc.aternos.me' // example: yourserver.aternos.me
-const USERNAME = 'RICHAFK_BOT'
+const HOST = 'play.crazynodes.qzz.io' // example: yourserver.aternos.me
+const USERNAME = 'RICH_AFK_BOT'
 
 function createBot() {
   console.log("🔄 Starting bot...")
